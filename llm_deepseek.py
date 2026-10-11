@@ -10,8 +10,7 @@ except ImportError:
     HAS_ASYNC = False
 
 MODELS = (
-    "deepseek-v4-pro",
-    "deepseek-v4-flash",
+    "deepseek-flash",
 )
 
 
