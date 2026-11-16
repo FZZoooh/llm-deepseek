@@ -25,8 +25,7 @@ Run `llm models` to get a list of models.
 
 Run prompts like this:
 ```bash
-llm -m deepseek-v4-pro 'five great names for a pet ocelot'
-llm -m deepseek-v4-flash 'how to reverse a linked list in python'
+llm -m deepseek-flash 'how to reverse a linked list in python'
 ```
 
 ## Development
